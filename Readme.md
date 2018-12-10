@@ -53,7 +53,7 @@ This pacakge is used for firing business actions based on a textual decision tre
 
 ## Installation
 ```
-$ go get github.com/myntra/roulette
+$ go get github.com/kount/roulette
 ```
 
 ## Usage
