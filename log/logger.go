@@ -5,7 +5,7 @@ package log
 import (
 	"os"
 
-	"github.com/Sirupsen/logrus"
+	"github.com/sirupsen/logrus"
 )
 
 var logger = logrus.New()
